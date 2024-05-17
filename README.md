@@ -2,6 +2,14 @@
 
 This project is a Student Management System implemented in C++ using data structures like Binary Search Tree (BST) and Heap. It allows users to manage student records, including details such as roll number, name, department, marks, and more.
 
+# Table of Contents
+
+1. [Student Management System](#student-management-system)
+2. [Features](#features)
+3. [File Structure](#file-structure)
+4. [Usage](#usage)
+5. [How to Contribute](#how-to-contribute)
+
 ## Features
 
 - **Insertion:** Add new student records to the system.
